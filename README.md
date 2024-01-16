@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-I am <b>Sammy Cohoe</b> and here is a little bit about myself
+
+My name is <b>Sammy Cohoe</b> and here is a little bit about myself
 <pre>
 - 📚 I'm a third-year Software Engineering Student at the University of Western Ontario
 - 💻 I'm proficient in the following languages: Python, JavaScript, Java
