@@ -7,7 +7,7 @@
   </a>
 
 
-My name is <b>Sammy Cohoe</b> and here is a little bit about myself
+My name is <b>Samuel Cohoe</b> and here is a little bit about myself
 <pre>
 - 📚 I'm a third-year Software Engineering Student at the University of Western Ontario
 - 💻 I'm proficient in the following languages: Python, JavaScript, Java
