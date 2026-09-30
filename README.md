@@ -4,7 +4,7 @@ New grad software engineer (BESc, Western University) with full-stack experience
  
 ## What I've been working on
  
-- **Wallet and Ledger** — A Go backend for a distributed, event-sourced financial ledger, currently in progress. Working on double-entry bookkeeping, idempotent transfers, and concurrency/chaos tests to prove money is never lost, duplicated, or created out from nothing.
+- **Wallet and Ledger** — A Go backend for a distributed, event-sourced financial ledger, currently in progress. Working on double-entry bookkeeping, idempotent transfers, and concurrency/chaos tests to prove money is never lost, duplicated, or created.
 - **OS Concepts in C++** – Refreshing myself on C++ advanced topics including process and thread management as well as intra- and inter-process communication.
 - **Arch Linux + Ricing** – Experimenting with Arch Linux and ricing on an old HP Specter x360.
 
