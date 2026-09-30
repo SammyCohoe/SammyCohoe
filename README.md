@@ -1,20 +1,24 @@
-### Hi there 👋
-<a href="[https://www.linkedin.com/in/preyrpatel/](https://www.linkedin.com/in/samuel-cohoe-11982922b/)">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="mailto:scohoe@uwo.ca">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+# Hey, I'm Samuel Cohoe
+ 
+Software engineer new grad (BESc, Western University) focused on backend and systems work. I like building things that sit behind the UI: APIs, data layers, and the infrastructure that keeps them fast and reliable.
+ 
+## What I've been working on
+ 
+- **Wallet and Ledger** — A Go backend for a distributed, event-sourced financial ledger, currently in progress. Working on double-entry bookkeeping, idempotent transfers, and concurrency/chaos tests to prove money is never lost, duplicated, or created out from nothing.
+- **OS Concepts in C++** – Refreshing myself on C++ advanced topics including process and thread management as well as intra- and inter-process communication.
+- **Arch Linux + Ricing** – Experimenting with Arch Linux and ricing on an old HP Specter x360.
 
+## Stack
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+## Currently
+ 
+- Going deeper on backend and distributed systems
+- Looking for entry level fullstack, dev ops, or backend engineering roles.
 
-My name is <b>Samuel Cohoe</b> and here is a little bit about myself
-<pre>
-- 📚 I'm a third-year Software Engineering Student at the University of Western Ontario
-- 💻 I'm proficient in the following languages: Python, JavaScript, Java
-- 🌱 I'm continually learning about Back-End Development, Machine Learning, APIs
-- 🌟 I enjoy Working Out, Travelling, Reading, Movies/TV, and Thrifting
-</pre>
-
-## Projects
-
-Feel free to check out some of my projects!
+## Outside of code
+Lifting, travelling, reading, movies and TV.
+ 
+## Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-cohoe-11982922b/) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:scohoe@uwo.ca)
