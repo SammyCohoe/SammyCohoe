@@ -1,6 +1,6 @@
 # Hey, I'm Samuel Cohoe
  
-Software engineer new grad (BESc, Western University) focused on backend and systems work. I like building things that sit behind the UI: APIs, data layers, and the infrastructure that keeps them fast and reliable.
+New grad software engineer (BESc, Western University) with full-stack experience from Western and CARFAX, where I built React/TypeScript frontends, Spring Boot APIs, and SQL-backed services. Recently I've taken more of an interest in backend and distributed systems.
  
 ## What I've been working on
  
